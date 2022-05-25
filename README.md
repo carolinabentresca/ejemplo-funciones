@@ -1,5 +1,6 @@
-# Funciones
+## Funciones
 
-###   Proyecto Java / Java Application
+###   Proyecto Java Application
 
-##   Ejemplo básico de funciones (Sumar)
+- ####   Ejemplo básico de funciones (Suma)
+
